@@ -5,6 +5,8 @@ tags: ["Guide"]
 coverImage: "https://i.imgur.com/uYPZdHV.jpeg"
 ---
 
+## Test message 123
+
 ## General Rules
 
 1. **Common Courtesy:** Race ''N'' Chase strives to be a friendly server for everyone, no matter their race, religion, gender, beliefs, views, nationality or anything of similar nature, and any insults based on those factors will not be tolerated. Friendly insults and taunts are allowed, but you should know your and others'' boundaries - being a pain in the ass**. can result in a punishment too. The server staff is allowed to punish players for this rule on their own discretion, if they deem it necessary.
