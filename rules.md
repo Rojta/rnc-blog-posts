@@ -14,7 +14,7 @@ coverImage: "https://i.imgur.com/uYPZdHV.jpeg"
 
 3. **Foreign Languages:** The main language on Race ''N'' Chase is English, therefore you are expected to write and speak English in any public voice/text chat (aka chat visible by all players on the server, no matter their language), no matter if you''re talking to your friends or not. Language chat, clan chat, squad chat, and PMs are exempt from this rule.
 
-   > NOTE: This rule is probably going to be updated in the next RnC update where a multi-language system will be added.
+   > NOTE: This rule is pending updates to fit the new Multi-Language system on RnC.
 
 4. **Bug Abuse:**
 
