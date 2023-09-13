@@ -1,7 +1,8 @@
 ---
 title: Rules
 subtitle: List of rules to follow.
-tags: "Guide"
+tags:
+  - Guide
 coverImage: https://i.imgur.com/uYPZdHV.jpeg
 ---
 

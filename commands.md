@@ -1,7 +1,8 @@
 ---
 title: Commands
 subtitle: List in-game commands.
-tags: Guide
+tags:
+  - Guide
 coverImage: https://i.imgur.com/PqKgfzJ.jpeg
 ---
 
