@@ -3,7 +3,6 @@ title: Game Crashes
 subtitle: Is your game crashing? Try these steps to fix it.
 tags:
   - Guide
-coverImage: https://i.imgur.com/0uhA4d9.jpeg
 ---
 
 Try these steps one by one and check if your game works after each step. Don't do all of these at once.
