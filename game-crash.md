@@ -6,7 +6,7 @@ tags:
 coverImage: https://i.imgur.com/0uhA4d9.jpeg
 ---
 
-# Try these steps one by one and check if your game works after each step. Don't do all of these at once.
+Try these steps one by one and check if your game works after each step. Don't do all of these at once.
 
 1. ## Restart your PC.
 
