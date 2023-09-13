@@ -1,8 +1,8 @@
 ---
-title: "Commands"
-subtitle: "List in-game commands."
-tags: ["Guide"]
-coverImage: "https://i.imgur.com/PqKgfzJ.jpeg"
+title: Commands
+subtitle: List in-game commands.
+tags: Guide
+coverImage: https://i.imgur.com/PqKgfzJ.jpeg
 ---
 
 ## Donator Commands
