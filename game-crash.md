@@ -1,7 +1,7 @@
 ---
 title: Game Crashes
 subtitle: Is your game crashing? Try these steps to fix it.
-coverImage: game-crash-cover.jpg
+coverImage: game-crash-cover.webp
 tags:
   - Guide
 ---

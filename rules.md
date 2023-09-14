@@ -1,7 +1,7 @@
 ---
 title: Rules
 subtitle: List of rules to follow.
-coverImage: rules-cover.jpg
+coverImage: rules-cover.webp
 tags:
   - Guide
 ---
