@@ -1,7 +1,7 @@
 ---
 title: Commands
 subtitle: List in-game commands.
-coverImage: commands-cover.jpg
+coverImage: commands-cover.webp
 tags:
   - Guide
 ---
