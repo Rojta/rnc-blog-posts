@@ -7,7 +7,10 @@ tags:
 ---
 
 ## Additions
-
+- [EXPERIMENTAL] When entering interiors, you will no longer see Radar & Nametags.
+  - This was added due to a suggestion that players massively voted in favour of.
+  - With this change, players will have to carefully plan their approach to barricaded suspects, instead of just rushing inside and spraying & praying. It'll give interior shootouts a completely new feel.
+- Added "Digital HP & AR Display" which displays your health & armour in numbers, bottom-left corner of the radar. Toggleable in the menu.
 - Added weapon fire mode switching hud.
 - **New badge system.**
   - With new badge system player will be able to learn new badges to display in chat, voice activity, scoreboard, etc..
@@ -66,6 +69,10 @@ tags:
 - Added new admin punishment menu.
 
 ## Changes
+- Recoil changes:
+  - When shooting from a vehicle, your recoil now depends on the speed of the vehicle. More speed = more recoil.
+  - Changed the way drive-by recoil looks *(it now jolts the camera upwards, making it look more 'natural')*.
+  - Reduced sidewards recoil when shooting on-foot.
 
 - ### New password hashing algorithm.
 
@@ -88,14 +95,23 @@ tags:
 - Re-designed voice activity.
   - Added badges.
 - Removed bank robbery event music.
-- Removed lock picking minigame.
+- Removed lock picking minigame since it was unused *(might be brought back in a future update when we optimize spawning random vehicles in copchase)*.
+- Moved the lobby location to LSPD HQ in Mission Row due to complaints about the previous lobby being too big.
+- The Race 'N' Chase Discord bot has been reworked:
+  - It now uses Discord's slash-command system, making it more accessible for staff members & players to know which commands are available to them and which parameters they take.
+  - The **/link** command has been moved to the Race 'N' Chase bot and should now work fully as intended.
 - #### Basically the whole server ui was rewrite to be faster and more responsive.
+- Removed the outdated Clothing Editor that would appear after creating your character. Instead, players will now spawn with default police & fugitive clothing that they can later adjust with */clothing*.
+- Moved some UI elements around for consistency purposes *(for example, the Action Bar has been removed - current Action progress will show up in the form of a notification; the Game Progress timer shows up in the Mini HUD next to the radar...)*.
 
 ## Fixes
-
+- Fixed bug where clans could accept more members than their current limit.
+  - As mentioned in the announcements, ALL clans' Kills, Deaths & COTW Wins will be reset to 0 as result of this change, giving everyone a fresh start and fair chance at competing.
+- The animation played when using painkillers will no longer freeze you in place - you'll be able to freely move and even shoot.
 - ### UI Scale fix.
   - We implemented ui scale fix to work around ragemp ui scaling bug on resolutions such ask 2k and 4k ones.
   - UI should now scale with your resolution.
 - Fixed anti-afk message color format bug.
-- Fixed player disconnect error.
-- Fixed bug where donators would't be able to buy items in the menu.
+- Fixed a number of backend errors that would randomly pop up during specific moments *(such as player disconnects)*.
+- Fixed bug where donators wouldn't be able to buy items in the menu.
+- *Other, minor optimizations and bug fixes that will hopefully improve performance & reduce client/server crashes!*
