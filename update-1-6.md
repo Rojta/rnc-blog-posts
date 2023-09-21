@@ -30,7 +30,7 @@ tags:
   - In the future update we also plan on adding quick actions to the chat similar to scoreboard ones.
 - Added new vehicle spawner.
   - Vehicle spawner will now always have up to date vehicle list, without us having to update it manually.
-  - Added multiple preview images per vehicle. (Some newer vehicles won't have images un-till added.)
+  - Added multiple preview images per vehicle. (Some newer vehicles won't have images until they are added.)
   - Added ability to shuffle.
   - Added filter by:
     - Class
