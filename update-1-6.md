@@ -7,6 +7,8 @@ tags:
 ---
 
 ## Additions
+- Anticheat improvements & additions.
+- Helmets that used to be bulletproof should no longer be bulletproof.
 - [EXPERIMENTAL] When entering interiors, you will no longer see Radar & Nametags.
   - This was added due to a suggestion that players massively voted in favour of.
   - With this change, players will have to carefully plan their approach to barricaded suspects, instead of just rushing inside and spraying & praying. It'll give interior shootouts a completely new feel.
@@ -69,6 +71,8 @@ tags:
 - Added new admin punishment menu.
 
 ## Changes
+- You will no longer be removed from spectate mode when the player you are spectating dies.
+
 - Recoil changes:
   - When shooting from a vehicle, your recoil now depends on the speed of the vehicle. More speed = more recoil.
   - Changed the way drive-by recoil looks *(it now jolts the camera upwards, making it look more 'natural')*.
@@ -105,6 +109,7 @@ tags:
 - Moved some UI elements around for consistency purposes *(for example, the Action Bar has been removed - current Action progress will show up in the form of a notification; the Game Progress timer shows up in the Mini HUD next to the radar...)*.
 
 ## Fixes
+- Your camera will no longer move & rotate while chat is turned on in Noclip mode.
 - Fixed bug where clans could accept more members than their current limit.
   - As mentioned in the announcements, ALL clans' Kills, Deaths & COTW Wins will be reset to 0 as result of this change, giving everyone a fresh start and fair chance at competing.
 - The animation played when using painkillers will no longer freeze you in place - you'll be able to freely move and even shoot.
