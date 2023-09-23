@@ -9,7 +9,7 @@ tags:
 ## Additions
 - Anticheat improvements & additions.
 - Helmets that used to be bulletproof should no longer be bulletproof.
-- [EXPERIMENTAL] When entering interiors, you will no longer see Radar & Nametags.
+- [EXPERIMENTAL] When entering interiors, you will no longer see Player Blips on radar & Nametags.
   - This was added due to a suggestion that players massively voted in favour of.
   - With this change, players will have to carefully plan their approach to barricaded suspects, instead of just rushing inside and spraying & praying. It'll give interior shootouts a completely new feel.
 - Added "Digital HP & AR Display" which displays your health & armour in numbers, bottom-left corner of the radar. Toggleable in the menu.
@@ -72,6 +72,7 @@ tags:
 
 ## Changes
 - You will no longer be removed from spectate mode when the player you are spectating dies.
+- /settime will no longer affect players in copchase, only those in the lobby.
 
 - Recoil changes:
   - When shooting from a vehicle, your recoil now depends on the speed of the vehicle. More speed = more recoil.
