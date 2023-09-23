@@ -1,6 +1,6 @@
 ---
 title: Update 1.6
-subtitle: WIP
+subtitle: List of changes for Update 1.6
 coverImage: update-cover.webp
 tags:
   - Update
