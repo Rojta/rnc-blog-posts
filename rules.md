@@ -63,6 +63,7 @@ A fugitive is running on foot and a cop is struggling to catch up to them. The c
 1. **Fair Play:** There are scenarios where a player from one team might find a method or a way to definitively secure a match win, making the situation completely unfair for the other team that can''t gain an advantage in any way. The server admins are allowed to take measures at their own discretion in order to balance out the game in such situations.
 
 **Example:** A fugitive starts climbing one of the highest cranes in the game, that takes minutes to climb. He cannot be killed due to ladder protection, and due to cops not being able to aim so high. Such situation is completely unfair for the police team, as the fugitive can intentionally stay on the ladder until the round ends. In such scenario, an admin is allowed to, e.g. spawn a helicopter for the police team to level out the playing field.
+**Note:** Admins should **NOT** punish players if they believe someone is breaking this specific rule, as long as no bugs have been abused in the process. They are allowed to find alternatives to balance the game out for both teams, or do nothing at all. This is to ensure that players do not get punished for non-existent rules.
 
 1. **Helicopter Abuse:** Using the helicopters to heli-blade (or generally fly into) players or vehicle is forbidden, and will be treated as a form of Ramming.
 
