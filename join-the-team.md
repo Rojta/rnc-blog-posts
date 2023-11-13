@@ -1,7 +1,7 @@
 ---
-title: Rules
-subtitle: List of rules to follow.
-coverImage: rules-cover.webp
+title: Join the team
+subtitle: Ready to join our staff team? Follow these simple rules and get started.
+coverImage: join-the-team.webp
 tags:
   - Guide
 ---
@@ -28,14 +28,14 @@ This post will serve as an information board for everything related to joining t
 
 - Applications are done through Discord tickets. When you click on the **Apply** button, a new ticket will be created, visible to only you & Senior Admins *(and higher)*.
 - The ticket will include a set of questions for you to answer. Copy & paste, then answer each question individually *(you will not be able to do all at once due to Discord's message length limits)*.
-- Make sure you follow the [question format](https://i.imgur.com/Vye7HF8.png) so it's readable for the reviewing admins.
+- Make sure you follow the question format so it's readable for the reviewing admins.
 - You must answer **ALL** questions for your application to be considered submitted. You may go back and edit your answers at any time, just let us know about it in the ticket *(without pinging us)*.
 - It may take up to **7 days** to receive an answer to the application. **Do NOT ping any admins regarding your staff application unless it's been more than 7 days without an answer - otherwise your application may be denied instantly.**
 - If your initial application was not satisfactory, you may be asked **additional questions** to answer.
 
 ## Requirements
 
-- ‼️ **You MUST have the ability to record your gameplay. Even better if you have Instant Replay. Do not bother applying if you cannot do either of those as this is the one and only requirement we make NO EXCEPTIONS for!** ‼️
+- **You MUST have the ability to record your gameplay. Even better if you have Instant Replay. Do not bother applying if you cannot do either of those as this is the one and only requirement we make NO EXCEPTIONS for!** ️
 - Be an **active** player on Race 'N' Chase.
 - Have at least **30 hours** of ingame play time - *exceptions may be made based on your understanding of the server & previous experience!*
 - Have a relatively clean admin record.
