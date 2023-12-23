@@ -24,6 +24,7 @@ tags:
   - Added custom walk styles for Silver Donators+
   - Added new injured walk style when below 50HP.
 - Added Display My Nametag option in menu settings to show your nametag on the screen.
+- Added anti-spam system to login screen.
 
 ## Changes
 
@@ -31,6 +32,7 @@ tags:
 - Added a few new log categories for staff members.
 - Changed it so remember me will be turned off automatically if you are kicked for asking.
 - Changed normal player messages to a new chat style.
+- Changed logo to a new chrismas styled one.
 
 ## Fixes
 
@@ -43,3 +45,5 @@ tags:
 - Fixed bank robbery damages.
 - The loading screen will no longer show up if the match was not started successfully.
 - The bleeding system was rewritten it should be a lot less buggy now.
+- Fixed vehicle spawner it should now work correctly.
+- Fixed chat badges.
