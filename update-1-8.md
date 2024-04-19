@@ -8,6 +8,8 @@ tags:
 
 ## Additions
 
+- ### Translation Website
+  - Want to translate Race 'N' Chase into your own language you can now do so @ **rnc.onl/translate**.
 - ### HUD Server Info
   - Added server info hud element with server website and account id.
 - ### Blog & Leaderboards Tabs
