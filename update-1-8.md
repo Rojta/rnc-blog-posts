@@ -18,7 +18,7 @@ tags:
   - Added option to change height, width and overall size of the chat.
   - Added option to keep chat input after closing the chat.
 - ### Donator List
-  - Added donator list in login/register screen to show appreciation to all donors who supported the server.
+  - Added donator list in login/register screen to show appreciation to all donators who supported the server.
 - ### HUD Biometrics
   - Added new hud elements displaying helth and armor in text.
 - New slider setting type in main menu.
