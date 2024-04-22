@@ -12,7 +12,7 @@ tags:
   - Copchase vehicle shop is now fully dynamic, meaning any Senior Admin (or higher) can now add, edit, or remove vehicles from the shop.
   - As result of this, top vehicle speeds are now dynamic too. Instead of being restricted to "speed classes" (Slow, Average, Fast), every vehicle can now have a unique top speed.
 - ### Translation Website
-  - Want to translate Race 'N' Chase into your own language? You can now do so @ [**rnc.onl/translate**](rnc.onl/translate).
+  - Want to translate Race 'N' Chase into your own language? You can now do so @ [**rnc.onl/translate**](https://rnc.onl/translate).
 - ### HUD Server Info
   - Added server info HUD element with server website and account ID.
 - ### Blog & Leaderboards Tabs
