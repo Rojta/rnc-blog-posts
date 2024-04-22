@@ -42,7 +42,7 @@ tags:
 
 - **Fixed several errors which resulted in server crashes - server should now be fully stable.**
 - Fixed 'Remember Me' not working.
-- Fixed bug where shooting teammate wouldn't apply shot tag. Shot tag should now always be applyed when shooting, no matter the conditions.
+- Fixed bug where shooting teammate wouldn't apply shot tag. Shot tag should now always be applied when shooting, no matter the conditions.
 - Getting tased while using medkit will now stop healing.
 - Fixed character import issues.
 - Fixed Ceramic Pistol not dealing damage.
