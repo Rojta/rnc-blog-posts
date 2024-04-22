@@ -54,7 +54,9 @@ tags:
 - Fixed some annoying chat issues (double chat, textbox focus, etc)
 - Fixed weapon info weapon icon overflow.
 - Fixed custom room setting sliders.
+- Fixed kicking/banning players from custom rooms.
 - Fixed bug where pressing the Expand Minimap keybind (P by default) when typing in some dialogs would toggle Expanded Minimap.
+- Fixed bug where Max Player count for custom rooms was restricted to global Max Player count.
 
 ## In case you missed it (previous updates)
 - **SQUAD/PARTNERING revamp:** Squads are now room-based and all squad commands have been moved under a single **/squad** command.
