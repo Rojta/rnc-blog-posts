@@ -31,6 +31,7 @@ tags:
 
 ## Changes
 
+- Quick-Login/Remember Me performance improved.
 - Fugitives can no longer be cuffed unless they are tased or have their hands up (/handsup).
 - Fugitives can no longer shoot while tased.
 - Temporary disabled challenges tab in mainmenu as they're pending a revamp.
