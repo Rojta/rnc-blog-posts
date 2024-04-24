@@ -11,8 +11,6 @@ tags:
 - ### Dynamic Vehicle Shop
   - Copchase vehicle shop is now fully dynamic, meaning any Senior Admin (or higher) can now add, edit, or remove vehicles from the shop.
   - As result of this, top vehicle speeds are now dynamic too. Instead of being restricted to "speed classes" (Slow, Average, Fast), every vehicle can now have a unique top speed.
-- ### Translation Website
-  - Want to translate Race 'N' Chase into your own language? You can now do so @ [**rnc.onl/translate**](https://rnc.onl/translate).
 - ### HUD Server Info
   - Added server info HUD element with server website and account ID.
 - ### Blog & Leaderboards Tabs
@@ -20,7 +18,7 @@ tags:
 - ### Chat Settings
   - Added option to change height, width and overall size of the chat.
   - Added option to keep chat input after closing the chat.
-  - *Menu > Settings > Chat to find the new settings.*
+  - _Menu > Settings > Chat to find the new settings._
 - ### Donator List
   - Added donator list in login/register screen to show appreciation to all donators who supported the server.
 - ### HUD Biometrics
@@ -59,6 +57,7 @@ tags:
 - Fixed bug where Max Player count for custom rooms was restricted to global Max Player count.
 
 ## In case you missed it (previous updates)
+
 - **SQUAD/PARTNERING revamp:** Squads are now room-based and all squad commands have been moved under a single **/squad** command.
 - Fixed squad spawning issues in copchase. Server now prioritizes Clan Partnering; disable it to spawn with squad members.
 - Instant Headshots **no longer work** if the target is **50+ meters away**! _This value may be fine-tuned in the future based on feedback we receive._
