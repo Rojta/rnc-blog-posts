@@ -38,6 +38,7 @@ tags:
 - Changed look of store tab in mainmenu.
 - Changed look of outfits tab in mainmenu.
 - Other minor, aesthetic UI changes.
+- Removed shooting cooldown after rolling.
 
 ## Fixes
 
