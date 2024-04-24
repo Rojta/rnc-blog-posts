@@ -33,4 +33,4 @@ Try these steps one by one and check if your game works after each step. Don't d
 1. ## Re-install GTA V.
 
 1. ## None of these steps worked?
-   Then your next course of action should be to go and ask for support on the [RAGE:MP Discord](https://discord.gg/ragemp) in their `#support` channel. Unfortunately, there's only so much we can do to help you.
+   Then your next course of action should be to go and ask for support on the RAGE:MP Discord - discord.gg/ragemp in their `#support` channel. Unfortunately, there's only so much we can do to help you.
